@@ -32,7 +32,7 @@ Q. 왜 많은 카테고리 중에서 니트, 맨투맨을 선택한 것인가?
 |온라인 쇼핑몰 데이터를 활용하여 비즈니스적 가치 창출하기|https://github.com/jyjnote/Zigzag-|
 |리뷰 기반 의류 사이즈 추천시스템|https://www.slideshare.net/slideshow/17-boaz-sizoah/255973431|
 
-# </br> 첫 번째 주제 :  고객의 리뷰를 바탕으로 총장, 어깨너비, 가슴단면, 소매길이가 큰지 작은지에 대한 모델링 과정후 dashboard 제공
+# </br> 첫 번째 주제 :  고객의 리뷰를 바탕으로 총장, 어깨너비, 가슴단면, 소매길이가 큰지 작은지에 대한 모델링 과정 후 dashboard 제공
 </br> :pushpin: 1. 크롤링을 통한 데이터 수집 
 
 - selenium과 beautifulsoup을 이용해 약 56,000개의 리뷰 데이터를 수집
