@@ -1,5 +1,5 @@
 ---
-# Kyonggi University data analysis project
+# 🏫 Kyonggi University data analysis project
 
 # </br> <주제>
 </br> :pencil2: 큰 주제 : 특정 카테고리 상품 (니트, 맨투맨)에 대한 리뷰 분석을 바탕으로 소비자의 구매 결정에 도움을 줄 수 있는 인사이트 제공 
